@@ -5,7 +5,7 @@
 +Age --> Age
 +EDUC --> Years of Education
 
-SES --> Socioeconomic Status / 1-5
+#SES --> Socioeconomic Status / 1-5
 
 MMSE --> Mini Mental State Examination
 
