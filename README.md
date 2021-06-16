@@ -1,11 +1,13 @@
 # Breif_Alzh_Claasification ..
 
 
-+Group --> Class
-+Age --> Age
-+EDUC --> Years of Education
+Group --> Class
 
-#SES --> Socioeconomic Status / 1-5
+Age --> Age
+
+EDUC --> Years of Education
+
+SES --> Socioeconomic Status / 1-5
 
 MMSE --> Mini Mental State Examination
 
