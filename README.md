@@ -1,5 +1,7 @@
-# Breif_Alzh_Claasification ..
+# Breif_Alzh_Claasification 
 
+
+# feature data 
 
 Group --> Class
 
