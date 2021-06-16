@@ -1,10 +1,9 @@
 # Breif_Alzh_Claasification ..
 
 
-Group --> Class
-Age --> Age
-
-EDUC --> Years of Education
++Group --> Class
++Age --> Age
++EDUC --> Years of Education
 
 SES --> Socioeconomic Status / 1-5
 
