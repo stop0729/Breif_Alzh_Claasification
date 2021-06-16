@@ -2,7 +2,6 @@
 
 
 Group --> Class
-
 Age --> Age
 
 EDUC --> Years of Education
