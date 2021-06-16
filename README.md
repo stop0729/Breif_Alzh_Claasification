@@ -3,7 +3,7 @@
 
 ## feature data 
 
-*Group --> Class
+Group --> Class
 
 Age --> Age
 
